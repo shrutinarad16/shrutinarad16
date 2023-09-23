@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/shruti-narad-108b08230**
 
-- 📄 Know about my experiences [dff](dff)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
