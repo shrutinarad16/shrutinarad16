@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/shruti-narad-108b08230)
 
-- 🤝 I’m looking for help in Project **CU_Connect**
+- 🤝 I’m looking for help in Project **Saarthi**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shrutinarad16](https://github.com/shrutinarad16)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/shruti-narad-108b08230**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qVyFLCZMsa2Dlg8IuhsErZyY00Ayl3i1/view?usp=drive_link](https://drive.google.com/file/d/1qVyFLCZMsa2Dlg8IuhsErZyY00Ayl3i1/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qVyFLCZMsa2Dlg8IuhsErZyY00Ayl3i1/view?usp=drive_link](https://drive.google.com/file/d/1qVyFLCZMsa2Dlg8IuhsErZyY00Ayl3i1/view?usp=drive_link](https://drive.google.com/file/d/1hPc5nC7eqXo7gUvktQE2y1ipZn2QeTDS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
