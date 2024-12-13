@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I am Shruti Narad</h1>
-<h3 align="center">I am 3Final Year CSE Undergraduate Student at Chandigarh University. Being Frontend Developer and UI/UX Developer is Key.</h3>
+<h3 align="center">I am 3Final Year CSE Undergraduate Student at Chandigarh University. Being Frontend Development and UI/UX Development is Key.</h3>
 <h4 align="center">Writer, Poet, Shayar, Motivational Speaker, Drafter, Traveller, Shlok Enchanter, Sketcher, Painter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutinarad16&label=Profile%20views&color=0e75b6&style=flat" alt="shrutinarad16" /> </p>
