@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrutinarad16" alt="shrutinarad16" /></a> </p>
 
-- 🔭 I’m currently working on [One District One Project (Junk-Bash)](http://odopjk.netlify.app/)
+- 🔭 I’m currently working on **Cryptic:The CipherText Identifier**
 
 - 🌱 I’m currently learning **React.js, Express.js**
 
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/shruti-narad-108b08230)
-
-- 🤝 I’m looking for help in Project **Cryptic:The CipherText Identifier**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shrutinarad16](https://github.com/shrutinarad16)
 
@@ -20,13 +18,19 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/shruti-narad-108b08230**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qVyFLCZMsa2Dlg8IuhsErZyY00Ayl3i1/view?usp=drive_link](https://drive.google.com/file/d/1qVyFLCZMsa2Dlg8IuhsErZyY00Ayl3i1/view?usp=drive_link](https://drive.google.com/file/d/1hPc5nC7eqXo7gUvktQE2y1ipZn2QeTDS/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qVyFLCZMsa2Dlg8IuhsErZyY00Ayl3i1/view?usp=drive_link](https://drive.google.com/file/d/1hPc5nC7eqXo7gUvktQE2y1ipZn2QeTDS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shrutinarad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrutinarad" height="30" width="40" /></a>
 <a href="https://instagram.com/shrutinarad1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrutinarad1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shrutinarad06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shrutinarad06" height="30" width="40" /></a>
+  <a href="https://instagram.com/sinkwithshruti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shruti's Poem, Thought, Draft Account" height="30" width="40" /></a>
+<a href="[https://instagram.com/shrutinarad1](https://www.poetrysoup.com/poems_poets/poems_by_poet.aspx?ID=181913)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Read My Published Poems and Drafts/Short Stories" height="30" width="40" /></a>
+<a href="shruti-vichar.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Thoughts on BlogSpot (Blogging Site)" height="30" width="40" /></a>
+<a href="poems-shayaries-quotes.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Poems-Gazal-Shayari on BlogSpot (Blogging Site)" height="30" width="40" /></a>
+<a href="(https://shrutinarad.netlify.app/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="My Portfolio" height="30" width="40" /></a>
+<a href="[(https://shrutinarad.netlify.app/)](https://in.pinterest.com/shruti_narad/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shruti Narad - Pinterest" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
