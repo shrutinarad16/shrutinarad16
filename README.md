@@ -31,6 +31,7 @@
 <a href="poems-shayaries-quotes.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Poems-Gazal-Shayari on BlogSpot (Blogging Site)" height="30" width="40" /></a>
 <a href="(https://shrutinarad.netlify.app/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="My Portfolio" height="30" width="40" /></a>
 <a href="[(https://shrutinarad.netlify.app/)](https://in.pinterest.com/shruti_narad/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shruti Narad - Pinterest" height="30" width="40" /></a>
+  </p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
