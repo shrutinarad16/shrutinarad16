@@ -1,5 +1,6 @@
 <h1 align="center">Hey, I am Shruti Narad</h1>
-<h3 align="center">I am 3rd Year CSE Undergraduate Student at Chandigarh University. Being Frontend Developer and UI/UX Developer is Fond.</h3>
+<h3 align="center">I am 3Final Year CSE Undergraduate Student at Chandigarh University. Being Frontend Developer and UI/UX Developer is Key.</h3>
+<h4 align="center">Write, Poet, Shayar, Motivational Speaker, Drafter, Traveller, Shlok Enchanter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutinarad16&label=Profile%20views&color=0e75b6&style=flat" alt="shrutinarad16" /> </p>
 
@@ -11,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/shruti-narad-108b08230)
 
-- 🤝 I’m looking for help in Project **Saarthi**
+- 🤝 I’m looking for help in Project **Cryptic:The CipherText Identifier**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shrutinarad16](https://github.com/shrutinarad16)
 
