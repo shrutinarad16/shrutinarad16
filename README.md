@@ -1,6 +1,6 @@
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+   
   </a>
-  <span>&nbsp;&nbsp;LinkedIn: <a href="https://linkedin.com/in/shrutinarad">linkedin.com/in/shrutina<h1 align="center">Hey, I am Shruti Narad</h1>
+  <span>&nbsp;&nbsp;LinkedIn: <a href="https://www.linkedin.com/in/shruti-narad-108b08230/">linkedin.com/in/shrutinarad<h1 align="center">Hey, I am Shruti Narad</h1>
 <h3 align="center">Final Year CSE Undergraduate Student at Chandigarh University. Passionate about Frontend Development and UI/UX Design.</h3>
 <h4 align="center">Writer, Poet, Shayar, Motivational Speaker, Drafter, Traveller, Shlok Enchanter, Sketcher, Painter</h4>
 
