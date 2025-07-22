@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hey, I'm Shruti Narad ✨</h1>
-<h3 align="center">Final Year CSE Student | Frontend Developer | UI/UX Enthusiast | Java & C++ Coder</h3>
+<h3 align="center">Graduated as Computer Science Engineer | Backend Developer | UI/UX Enthusiast | Java & C++ Coder</h3>
 <h4 align="center">Writer • Shayar • Painter • Speaker • Sketcher • Shlok Enchanter • Traveller</h4>
 
 <p align="center">
