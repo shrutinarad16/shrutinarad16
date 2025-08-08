@@ -61,9 +61,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shrutinarad16&show_icons=true&theme=tokyonight" alt="Shruti's GitHub stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutinarad16&theme=tokyonight" alt="GitHub Streak"/>
-</p>
 
 ---
 
